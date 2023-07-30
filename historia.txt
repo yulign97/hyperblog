@@ -1,12 +1,6 @@
 Esta es la historia de Yuli: Yuli tiene 25 años , y vive en Cartagena.
 
 Yuli es una persona que contribuye a este proyecto.
-
-<<<<<<< HEAD
 Yuli es una persona que ayuda aqui 2.
 Experimento 1
-=======
-Experimento 1
-
->>>>>>> 9da7620 (Exp 2)
 Experimento 2
