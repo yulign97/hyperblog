@@ -5,11 +5,13 @@ Un blog increíble para el curso de Git y GitHub de Platzi
 
 > - Yuli 
 
-## En este curso vemos de todo:En este curso vemos de todo:
+## En este curso vemos de todo:
 - Todos los comandos de Git.
 - El flujo de trabajo en GitHub.
 - El verdadero amor por las buenas prácticas.
 - Trucos del profesor.
+- Creado por el increíble 
+Platzi Team. 
 
 
 Pdta: **Este readme.md es un chiste** , ok? :)
