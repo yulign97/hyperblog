@@ -12,6 +12,7 @@ Un blog increíble para el curso de Git y GitHub de Platzi
 - Trucos del profesor.
 - Creado por el increíble 
 Platzi Team. 
-
+- Incluye ejemplos en Windows, Linux y Mac.
+-Disponible para todas las edades.
 
 Pdta: **Este readme.md es un chiste** , ok? :)
